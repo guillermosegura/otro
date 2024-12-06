@@ -1,0 +1,5 @@
+1333cd4 Merge branch 'master' of https://github.com/guillermosegura/otro
+4210e53 Ejemplo de commit con notepad
+c106fa8 Commit squashed
+b42aaf5 Create README.md
+07c3003 Se agrega
