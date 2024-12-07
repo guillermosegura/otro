@@ -1,0 +1,9 @@
+1333cd4 - Guillermo Segura O., Fri Dec 6 22:53:35 2024 +0000 : Merge branch 'master' of https://github.com/guillermosegura/otro
+4210e53 - Guillermo Segura O., Fri Dec 6 22:44:36 2024 +0000 : Ejemplo de commit con notepad
+c106fa8 - Guillermo Segura Olivera, Fri Dec 6 15:48:28 2024 -0600 : Commit squashed
+b42aaf5 - Guillermo Segura Olivera, Fri Dec 6 15:48:28 2024 -0600 : Create README.md
+07c3003 - Guillermo Segura Olivera, Fri Dec 6 15:44:57 2024 -0600 : Se agrega
+56c2166 - Guillermo Segura Olivera, Fri Dec 6 15:44:36 2024 -0600 : se elimina
+881c377 - gsegura - Guillermo Segura, Fri Dec 6 21:43:27 2024 +0000 : cambio nuevo
+dcb4dd4 - gsegura - Guillermo Segura, Fri Dec 6 21:39:37 2024 +0000 : se cambia el nombre de algo a algo.txt
+c7e7d86 - gsegura - Guillermo Segura, Fri Dec 6 21:33:20 2024 +0000 : un mensaje
